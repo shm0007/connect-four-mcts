@@ -8,7 +8,7 @@ To get next move:
 
 
 To run complete games:  
-`ConnectFour.py <file_path> <verbosity> <num_simulation_algo1> <algo1> <num_simulation_algo2> <algo2> <total_games>  `
+`ConnectFour.py <file_path> <verbosity> <num_simulation_algo1> <algo1> <num_simulation_algo2> <algo2> <total_games>`  
 `ConnectFour.py zero.txt None 100 UCT 100 PMCGS 10`  
 
 
