@@ -1,6 +1,6 @@
 Implementation of Connect Four game using Monte Carlo Game Tree search. Both of the Pure Monte Carlo Game Search and Upper Confidence Bound are implemented
 
-# Usage
+## Usage
 The program can be executed from the command line. It can be run to generate the next move from a current board, or simulate multiple games.  
 To get next move:  
 `ConnectFour.py <file_path> <verbosity> <num_simulation>`  
